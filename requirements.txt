@@ -1,0 +1,10 @@
+pypdf
+langchain
+sentence-transformers
+transformers
+gradio
+langchain-community
+huggingface-hub
+langchain-huggingface
+chromadb
+langchain_huggingface
