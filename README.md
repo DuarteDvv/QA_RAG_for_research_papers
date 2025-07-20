@@ -9,5 +9,6 @@ Uso simples:
 - Coloque o arquivo PDF que quiser
 - Faca sua pergunta sobre o arquivo
 - OBS: Repare que perguntar no mesmo idioma do documento auxilia na precisao da busca vetorial e portanto tera melhores resultados.
+- Faca perguntas do tipo: | Qual a metodologia do artigo ? | Quais os resultados ? | Qual o problema abordado ? |
 
 ![IMAGE](exemplo.png)
