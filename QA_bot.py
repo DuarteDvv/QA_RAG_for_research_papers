@@ -14,7 +14,7 @@ def retriever(file_path: str):
     docs = document_loader(file_path)
     chunks = doc_splitter(docs)
     vectordb = vector_database(chunks, EMB_MODEL)
-    return vectordb.as_retriever()
+    return vectordb.as_retriever(search_kwargs={"k": 6})
 
 
 def retriever_qa(file, query: str):
